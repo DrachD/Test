@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class CameraController : MonoBehaviour
+public class RayProcessing : MonoBehaviour
 {
     #region Cash
     private Camera _camera;
